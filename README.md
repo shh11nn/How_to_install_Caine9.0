@@ -4,7 +4,7 @@
 なので、日本語のサイトで技術にある程度触れてからにしようと考えた。<br>
 その日本のセキュリティイベントのサイトでの学習でCaineの環境構築が必要なので行った。<br>
 ●情報セキュリティ技術のスキルアップ・イベント 仙台CTF 2017<br>
-[](http://sectanlab.sakura.ne.jp/sendaictf/fyi.html)<br>
+[http://sectanlab.sakura.ne.jp/sendaictf/fyi.html](http://sectanlab.sakura.ne.jp/sendaictf/fyi.html)<br>
 ![](https://github.com/shh11nn/How_to_install_Caine9.0/blob/main/sendai.png)
 
 
