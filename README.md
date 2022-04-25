@@ -11,6 +11,10 @@
 まとめてツールが入っているため役に立つ。<br>
 今回はWindows OSにVirtual BoxでISO　イメージファイルを使って環境構築を行っていく。<br>
 # VirtualBoxのインストール
-略さず書くとOracle VM VirtualBoxという仮想化ソフトウェアパッケージの一つ現在の開発は米国オラクルが行っている<br>
+略さず書くとOracle VM VirtualBoxという仮想化ソフトウェアパッケージの一つ現在の開発は米国オラクルが行っている。<br>
+●Oracle Virtual Box 公式サイト<br>
+[https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html](https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html)<br>
+
+
 
 
