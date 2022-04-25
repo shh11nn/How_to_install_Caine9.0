@@ -14,7 +14,7 @@
 略さず書くとOracle VM VirtualBoxという仮想化ソフトウェアパッケージの一つ現在の開発は米国オラクルが行っている。<br>
 ●Oracle Virtual Box 公式サイト<br>
 [https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html](https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html)<br>
-
+![](https://github.com/shh11nn/How_to_install_Caine9.0/blob/main/oracle.png)
 
 
 
