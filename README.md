@@ -30,7 +30,6 @@ Caineの公式サイトのリンクにとび、DOWNLOADSをクリックする。
 Caine9.0.iso (64 bit)をクリックしてISOイメージをダウンロードする。<br>
 VirtualBoxで新規で名前：Caine・タイプ：Linux・バージョン：Oracle(64-bit)で、<br>
 後はデフォルトで仮想マシンを作成する。
-![](https://github.com/shh11nn/How_to_install_Caine9.0/blob/main/caine9.0.png)
+![](https://github.com/shh11nn/How_to_install_Caine9.0/blob/main/caine9.0.png)<br>
 <br>
-VirtualBoxの設定のストレージでISOイメージに配置してDVDで焼く
-![](https://github.com/shh11nn/How_to_install_Caine9.0/blob/main/storage.png)
+VirtualBoxの設定のストレージでISOイメージを仮想光学ドライブに配置して起動する。
