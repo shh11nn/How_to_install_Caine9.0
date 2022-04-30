@@ -32,4 +32,48 @@ VirtualBoxで新規で名前：Caine・タイプ：Linux・バージョン：Ora
 後はデフォルトで仮想マシンを作成する。
 ![](https://github.com/shh11nn/How_to_install_Caine9.0/blob/main/caine9.0.png)<br>
 <br>
-VirtualBoxの設定のストレージでISOイメージを仮想光学ドライブに配置して起動する。
+VirtualBoxの設定のストレージでISOイメージを仮想光学ドライブに配置して起動する。<br>
+起動して始まったらBoot Live systemを選択する。<br>
+![](https://github.com/shh11nn/How_to_install_Caine9.0/blob/main/caine1.png)<br>
+<br>
+ローディング画面に移行する。<br>
+![](https://github.com/shh11nn/How_to_install_Caine9.0/blob/main/caine2.png)<br>
+<br>
+Systemback(installer)をクリックする。<br>
+![](https://github.com/shh11nn/How_to_install_Caine9.0/blob/main/caine3.png)<br>
+<br>
+System installをクリックする。<br>
+![](https://github.com/shh11nn/How_to_install_Caine9.0/blob/main/caine4.png)<br>
+<br>
+上から初期ユーザのフルネーム、初期ユーザのユーザ名、初期ユーザのパスワード、特権ユーザのパスワード、ホスト名を設定する。<br>
+今回はGitHubでの説明用なので、全てtestにしている。入力が終わればNextをクリックする。
+![](https://github.com/shh11nn/How_to_install_Caine9.0/blob/main/caine5.png)<br>
+<br>
+パーテーションの設定ができればNextボタンが押せるようになるので次にいく。<br>
+![](https://github.com/shh11nn/How_to_install_Caine9.0/blob/main/caine7.png)<br>
+<br>
+インストールしましょうという画面になるのでStartボタンを押してインストールを始める。<br>
+![](https://github.com/shh11nn/How_to_install_Caine9.0/blob/main/caine8.png)<br>
+<br>
+インストールをするためしばらくローディングする。
+![](https://github.com/shh11nn/How_to_install_Caine9.0/blob/main/caine9.png)<br>
+<br>
+システムのインストールが完了しましたのメッセージが表示されたら<br>
+OKボタンをクリックする。<br>
+![](https://github.com/shh11nn/How_to_install_Caine9.0/blob/main/caine10.png)<br>
+<br>
+Shut Down...ボタンをクリックし、Restartボタンをクリックして再起動する。<br>
+![](https://github.com/shh11nn/How_to_install_Caine9.0/blob/main/caine11.png)<br>
+![](https://github.com/shh11nn/How_to_install_Caine9.0/blob/main/caine12.png)<br>
+<br>
+ローディング画面の後にログイン画面が現れたらインストールは終了だ。<br>
+ログインすると設定前に見た画面に戻ってくる。<br>
+![](https://github.com/shh11nn/How_to_install_Caine9.0/blob/main/caine13.png)<br>
+![](https://github.com/shh11nn/How_to_install_Caine9.0/blob/main/caine14.png)<br>
+![](https://github.com/shh11nn/How_to_install_Caine9.0/blob/main/caine15.png)<br>
+# まとめ
+過去に学校の勉強や自習でUbuntuやCentOSなどのISOイメージを使い、<br>
+VirtualBoxで仮想環境を構築した経験があったため、<br>
+何とかできたが、初心者が一から構築するのは難しいと感じた。<br>
+今回構築した環境やWindowsで構築した環境などを使って、<br>
+講義資料を見つつメモリフォレンジックやタイムライン解析を学習をしようと考える。<br>
